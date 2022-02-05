@@ -9,3 +9,5 @@ https://flipgrid.com/s/oRWhEQgTdXzv MOUSE OCTAGON! (NESTED REPEATS)
 https://flipgrid.com/s/FhP6GvwssvhG BANANA CATCHING MONKEY EXPLANATION! (EVENTS)
 
 https://flipgrid.com/s/uuEPWtLtdLyu VARIABLES!
+
+https://flipgrid.com/s/m-ARAe7sK4P1 CONDITIONAL LOOPS!
